@@ -12,3 +12,7 @@ module GitRuby
     
   end
 end
+
+
+# Add a comment for test git
+# Add another comment for test git

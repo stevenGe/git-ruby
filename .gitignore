@@ -1,0 +1,7 @@
+*.[oa]
+*~
+!lib.a
+build/
+target/
+doc/*.txt
+doc/**/*.txt
